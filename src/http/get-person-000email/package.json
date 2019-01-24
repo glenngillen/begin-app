@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-person-000email",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
